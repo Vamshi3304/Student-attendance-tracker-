@@ -14,7 +14,7 @@ The Student Attendance Tracker is a simple web-based application used to mark an
 - JavaScript
 
 ## Deployment
-This project is deployed on GitHub as part of Assignment 7 (Week 7 – Deployment).
+This project is deployed on GitHub as part of RWD activity 
 
 ## Author
-Vamshi Reddy
+Vamshi A
